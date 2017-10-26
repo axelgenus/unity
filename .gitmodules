@@ -32,9 +32,9 @@
 	branch = master
 [submodule "MVC"]
 	path = MVC
-	url = https://github.com/unitycontainer/aspnet-mvc.git
+	url = https://github.com/axelgenus/aspnet-mvc.git
 	branch = master
 [submodule "WebAPI"]
 	path = WebAPI
-	url = https://github.com/unitycontainer/aspnet-webapi.git
+	url = https://github.com/axelgenus/aspnet-webapi.git
 	branch = master
